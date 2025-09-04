@@ -24,22 +24,20 @@ Soy un desarrollador en formación, entusiasmado por sumergirme en el universo d
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=1010nishant&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false" /> 
-</td>
+### 📊 Estadísticas de Habilidades
 
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
+<p align="center">
+  <!-- Lógica de Programación -->
+  <strong>Lógica de Programación:</strong> ▰▰▰▰▰▰▰▰▱▱ 50%<br/>
+  <!-- HTML -->
+  <strong>HTML:</strong> ▰▰▰▰▰▰▰▰▰▱ 30%<br/>
+  <!-- CSS -->
+  <strong>CSS:</strong> ▰▰▰▰▰▰▰▱▱▱ 30%<br/>
+  <!-- JavaScript -->
+  <strong>JavaScript:</strong> ▰▰▰▰▰▰▱▱▱▱ 15%<br/>
+  <!-- Git -->
+  <strong>Git & GitHub:</strong> ▰▰▰▰▰▰▰▱▱▱ 20%<br/>
+</p>
 <!--- stats (end) -->
 
 <!--- trophy (start) -->
