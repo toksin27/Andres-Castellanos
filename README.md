@@ -1,6 +1,5 @@
 # Andres-Castellanos
 
-
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -9,30 +8,13 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Andres</h1></summary>
   </ul>
-</div>
-
-
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
-
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
-  </ul>
-</div>
-
 
 <!--Intro start-->
+Soy un desarrollador en formación, entusiasmado por sumergirme en el universo del código. Cada día estoy aprendiendo algo nuevo, cometiendo errores y mejorando mis habilidades. Mi objetivo es crecer poco a poco, contribuir en proyectos y conectar con otros desarrolladores.
+
 - 🔭 I’m currently working on **Analyst Data Junior**
 
 - 🌱 I’m currently learning **expense .**
-
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
 
 - 📫 Feel free to reach me out **andresect25@gmail.com**
 
